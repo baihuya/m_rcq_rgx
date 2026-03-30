@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "versionCode": 14500,
-  "zipUrl": "https://raw.githubusercontent.com/baihuya/m_rcq_rgx/refs/heads/main/rcq%201.4.5.zip",
-  "changelog": "1. 隐藏更多环境\n2. 原作者@xunchahaha  huime\n3.重载模块功能适配resukisu和杂鱼面具\n4.Ksu环境专用"
+  "version": "1.4.6",
+  "versionCode": 14600,
+  "zipUrl": "https://raw.githubusercontent.com/baihuya/m_rcq_rgx/refs/heads/main/rcq%201.4.6.zip",
+  "changelog": "1.重构模块逻辑   Ksu环境专用\n2.重载功能适配resukisu和杂鱼面具\n3.QQ群588404381玩机聊天"
 }
