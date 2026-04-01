@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "versionCode": 14600,
-  "zipUrl": "https://raw.githubusercontent.com/baihuya/m_rcq_rgx/refs/heads/main/rcq%201.4.6.zip",
-  "changelog": "1.重构模块逻辑   Ksu环境专用\n2.重载功能适配resukisu和杂鱼面具\n3.QQ群588404381玩机聊天"
+  "version": "1.4.7",
+  "versionCode": 14700,
+  "zipUrl": "https://raw.githubusercontent.com/baihuya/m_rcq_rgx/refs/heads/main/rcq%201.4.7.zip",
+  "changelog": "1.精简隐藏环境，适配更多机型\n2.重载功能适配resukisu和杂鱼面具\n3.修复LSP适配到2.0.1\n4.QQ群588404381玩机聊天"
 }
